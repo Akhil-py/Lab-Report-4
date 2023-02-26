@@ -28,6 +28,7 @@
 <back_space>` `2`
 
 `<ctrl^X>` `Y` `<enter>`
+.
 
 ## Step 8 and 9
 
