@@ -4,6 +4,8 @@
 
 `ssh cs15lwi23afv@ieng6.ucsd.edu` < enter >
 
+[PASS PHRASE]
+
 ![image](https://user-images.githubusercontent.com/61783850/221389323-feb59f2b-c3e8-4ac8-ba3f-52b1dd6089a2.png)
 
 ## Step 5 and 6
