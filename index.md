@@ -4,7 +4,7 @@
 
 `ssh cs15lwi23afv@ieng6.ucsd.edu` < enter >
 
-[PASS PHRASE]
+`[PASS PHRASE]`
 
 ![image](https://user-images.githubusercontent.com/61783850/221389323-feb59f2b-c3e8-4ac8-ba3f-52b1dd6089a2.png)
 
@@ -19,11 +19,14 @@
 `nano ListExamples.java` < enter >
 
 < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down >
+
 < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > < right > 
 < back_space > < back_space > < back_space > 
+
 < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down > < down >
 < left > < left > < left > < left > < left > < left > 
 < back_space > `2`
+
 < crt^X > Y < enter >
 
 ## Step 8 and 9
