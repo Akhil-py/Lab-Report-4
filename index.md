@@ -19,13 +19,9 @@
 `nano ListExamples.java` 
 `<enter>`
 
-`<down><down><down><down><down><down><down><down><down><down><down><down><down><down>
-<right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right>
-<back_space><back_space><back_space>`
+`<down><down><down><down><down><down><down><down><down><down><down><down><down><down><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><right><back_space><back_space><back_space>`
 
-`<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>
-<left><left><left><left><left><left>
-<back_space>` `2`
+`<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><left><left><left><left><left><left><back_space>` `2`
 
 `<ctrl^X>` `Y` `<enter>`
 
