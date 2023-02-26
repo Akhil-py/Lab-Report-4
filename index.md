@@ -28,7 +28,8 @@
 <back_space>` `2`
 
 `<ctrl^X>` `Y` `<enter>`
-.
+
+![image](https://user-images.githubusercontent.com/61783850/221390298-b0a1dfe7-c009-432f-8ae2-c0c625fea2dd.png)
 
 ## Step 8 and 9
 
